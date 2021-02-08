@@ -3,7 +3,7 @@
 ## What it does
 It is a Theatre ticket booking system made for local Cinema Theatres in which both owner as well as customer can book and cancel tickets. This program is Developed using Java and used MySQL for Database management.
 
-<img src="https://i.imgur.com/hcwqCvK.png" height="500">    <img src="https://i.imgur.com/9WNZSsh.png" width="250">    <img src="https://i.imgur.com/L3ZIWTG.png" width="250"> 
+<img src="https://i.imgur.com/hcwqCvK.png" height="400">    <img src="https://i.imgur.com/M5BQLMD.png" height="400">    <img src="https://i.imgur.com/oYMTW89.png" height="400"> <img src="https://i.imgur.com/TuA5xIT.png" height="400"> <img src="https://i.imgur.com/RVQI9lr.png" height="400"> <img src="https://i.imgur.com/mIw2Z8q.png" height="400"> <img src="https://i.imgur.com/pL69T7L.png" height="400"> <img src="https://i.imgur.com/1dcpYpn.png" height="400"> 
 
 ## Challenges we ran into
 
