@@ -21,6 +21,7 @@ It is a Theatre ticket booking system made for local Cinema Theatres in which bo
 
 ## Built By
 - [Deep Rodge](https://github.com/deeprodge)
+- [Krishna Patel](https://github.com/krshn-ptl) 
 ```
 MIT License
 
