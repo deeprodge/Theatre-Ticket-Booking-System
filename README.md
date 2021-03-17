@@ -16,7 +16,7 @@ It is a Theatre ticket booking system made for local Cinema Theatres in which bo
 
 - How to handle and store data using MySQL.
 - How to use Swing Controls of NetBeans to input and output data.
-- How to send and retrive data from MySQL to NetBeans
+- How to send and retrive data from SQL Database to Java Applet
 - How to handle exceptions in Java using try/catch/throw.
 
 ## Built By
