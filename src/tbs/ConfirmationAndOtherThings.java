@@ -12,7 +12,7 @@ import java.sql.Statement;
 
 /**
  *
- * @author patel
+ * @author Krishna Patel
  */
 public class ConfirmationAndOtherThings extends javax.swing.JFrame {
 
