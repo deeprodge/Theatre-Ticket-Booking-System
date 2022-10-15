@@ -12,7 +12,7 @@ It is a Theatre ticket booking system made for local Cinema Theatres in which bo
 - Too many tables in MySQL were used which made the program slower so we had to optimize by reducing and merging some of the tables
 
 
-## What we learned
+## What we have learned
 
 - How to handle and store data using MySQL.
 - How to use Swing Controls of NetBeans to input and output data.
